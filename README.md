@@ -52,7 +52,7 @@ I'm a QA Automation Engineer who builds test frameworks that are clean, reusable
 - Implemented data-driven testing using TestNG Data Providers that read booking data from Excel via Apache POI.
 - Built page classes, a base class, and utilities (`ExcelUtil`, `ScreenshotUtil`) with automatic screenshots on failure.
 
-### 3. [Contact List Management: REST API Automation](https://github.com/Madhavi-id3/Contact_List_ApiTesting)
+### 3. [Contact List Management: REST API Automation](https://github.com/Madhavi-id3/Contact_List-_ApiTesting)
 **Tools:** Java, RestAssured, TestNG, Hamcrest, Postman (Chai assertions), ExtentReports, Maven
 - Automated 10 API test cases (POST, GET, PUT, PATCH) covering the flow from registration to logout, validating status codes, status lines, and response bodies.
 - Chained the bearer token and contact ID across tests, and used timestamp-based emails so the suite re-runs without data conflicts.
