@@ -40,19 +40,19 @@ I'm a QA Automation Engineer who builds test frameworks that are clean, reusable
 
 ## 🚀 Featured Projects
 
-### 1. [BStackDemo E-Commerce: Selenium Automation Framework](https://github.com/Madhavi-id3/BStackDemo-Automation)
+### 1. [BStackDemo E-Commerce: Selenium Automation Framework](https://github.com/Madhavi-id3/BstackDemo_Automation_Framework)
 **Tools:** Java, Selenium WebDriver, TestNG, Maven, Page Object Model, ExtentReports
 - Built a Page Object Model framework automating login, add-to-cart, and checkout flows (7 positive and negative test cases).
 - Created `BaseTest`, `DriverFactory`, and `ConfigReader` utilities, with URL and browser controlled from `config.properties`.
 - Added a TestNG listener with ExtentReports for timestamped HTML reports, plus screenshots and explicit waits.
 
-### 2. [BlazeDemo Flight Booking: End-to-End Automation Framework](https://github.com/Madhavi-id3/BlazeDemo-Automation)
+### 2. [BlazeDemo Flight Booking: End-to-End Automation Framework](https://github.com/Madhavi-id3/BlazeDemo_Automation_Framework)
 **Tools:** Java, Selenium WebDriver, TestNG, Maven, Apache POI, Page Object Model
 - Automated the full booking flow (search, reserve, purchase, confirmation) with smoke and functional TestNG groups.
 - Implemented data-driven testing using TestNG Data Providers that read booking data from Excel via Apache POI.
 - Built page classes, a base class, and utilities (`ExcelUtil`, `ScreenshotUtil`) with automatic screenshots on failure.
 
-### 3. [Contact List Management: REST API Automation](https://github.com/Madhavi-id3/ContactList-API-Automation)
+### 3. [Contact List Management: REST API Automation](https://github.com/Madhavi-id3/Contact_List_ApiTesting)
 **Tools:** Java, RestAssured, TestNG, Hamcrest, Postman (Chai assertions), ExtentReports, Maven
 - Automated 10 API test cases (POST, GET, PUT, PATCH) covering the flow from registration to logout, validating status codes, status lines, and response bodies.
 - Chained the bearer token and contact ID across tests, and used timestamp-based emails so the suite re-runs without data conflicts.
