@@ -3,6 +3,7 @@
 ### Entry-Level QA Automation Engineer | Selenium · Java · TestNG · API Testing
 
 📍 Hyderabad, Telangana, India
+🌐 **Portfolio:** [madhavi-id3.github.io](https://madhavi-id3.github.io)
 
 I'm a QA Automation Engineer who builds test frameworks that are clean, reusable, and easy to maintain. I work with **Selenium WebDriver, TestNG, Cucumber (BDD)** and **RestAssured / Postman** for API testing. I hold a B.Tech in Computer Science (CGPA 8.45) and previously interned in AWS Cloud and DevOps.
 
